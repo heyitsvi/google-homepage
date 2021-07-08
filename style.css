@@ -98,6 +98,8 @@ Main Section
     border: 1px solid #dde1e4dc;
     border-radius: 30px;
     z-index: 0;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 #search-box:hover{
     box-shadow: 1px 1px 5px grey;
