@@ -1,1 +1,1 @@
-Hi! I'll be making a google homepage clone let's see how this goes : )
+Learning CSS by making a google homepage clone.
